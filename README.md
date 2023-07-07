@@ -1,2 +1,2 @@
-# Responsivewebsite-with-Bootstrap5
-I created a responsive website using Bootstrap5.
+# Structure Page
+A build page I made with just HTML and Bootstrap.
